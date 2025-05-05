@@ -8,11 +8,13 @@
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-Hi! I'm a developer who blends the power of the **MERN Stack** with the magic of **AI and ML**.  
-From crafting dynamic web apps to deploying ML models using **Streamlit**, **Flask**, and **NLP**,  
-I'm on a mission to build tech that solves real-world problems.
+🎓 I'm currently pursuing **B.Tech at IIIT Bhubaneswar**, specializing in Computer Science.  
+💻 I'm a **MERN Stack Developer** who enjoys crafting dynamic and user-friendly web applications.  
+🤖 I'm also deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.  
+🧠 My key interest lies in **integrating AI/ML solutions into real-world full-stack web projects**—making web apps smarter and more impactful.  
+🚀 I love working on both **client-side** and **server-side**, as well as deploying ML models using **Flask**, **Streamlit**, and **scikit-learn**.
 
 ---
 
