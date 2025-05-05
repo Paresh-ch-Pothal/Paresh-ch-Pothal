@@ -1,45 +1,33 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-link.com/banner.jpg" alt="Banner Image" width="100%" />
+  <img src="https://your-image-link.com/banner.png" alt="Banner Image" width="100%" />
 </p>
 
-<!-- Split Layout (Left: Animation, Right: Content) -->
-<table width="100%">
-  <tr>
-    <!-- Left Section: Animation -->
-    <td width="50%" align="center" valign="top">
-      <!-- Animation (Replace with your animation URL or code) -->
-      <img src="https://your-animation-link.com/animation.gif" alt="Animation" width="80%" />
-    </td>
+<!-- Left Side Animation -->
+<div>
+  <img align="right" width="40%" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?ga=GA1.1.1857632827.1746463498&semt=ais_hybrid&w=740" alt="Tech Concept" />
+</div>
 
-    <!-- Right Section: Heading and About Me -->
-    <td width="50%" align="left" valign="top">
-      <h1 align="center">
-        👋 Hey there, I'm <span style="color:#0d6efd"><strong>Paresh</strong></span>!
-      </h1>
 
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+about+AI%2C+ML+Solutions.;MERN+Stack+Developer.;Full+Stack+Web+Developer." alt="Typing SVG" />
-      </p>
+<!-- Header Name -->
+<h1> 
+  👋
+  ɪ'ᴍ Paresh!
+  <br />
+  <em>Full Stack Developer & ML Enthusiast</em>
+</h1>
 
-      <hr>
+<!-- Start Intro -->
+<p align="left">I'm a Full Stack Developer with strong expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js) and passionate about integrating AI/ML solutions into real-world applications. I enjoy building dynamic, scalable web applications and solving problems with machine learning techniques.</p>
 
-      ### 🧑‍💻 About Me
+<ul>
+  <li>✨ Currently pursuing <strong>B.Tech at IIIT Bhubaneswar</strong></li>
+  <li>❤ Passionate about contributing to <strong>Open Source</strong></li>
+  <li>💻 Visit my Portfolio([https://suhaib.protool.co.in](https://my-portfolio-wn15.vercel.app/)) for more details about me.</li>
+</ul>
+<!-- End Intro -->
 
-      🎓 I'm currently pursuing **B.Tech at IIIT Bhubaneswar**, specializing in Computer Science.  
-      💻 I'm a **MERN Stack Developer** who enjoys crafting dynamic and user-friendly web applications.  
-      🤖 I'm also deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.  
-      🧠 My key interest lies in **integrating AI/ML solutions into real-world full-stack web projects**—making web apps smarter and more impactful.  
-      🚀 I love working on both **client-side** and **server-side**, as well as deploying ML models using **Flask**, **Streamlit**, and **scikit-learn**.
-
-      <hr>
-
-      ### 🧰 Tech Toolbox
-
-      - 🖥️ **Frontend**: React.js, Tailwind CSS, Redux
-      - ⚙️ **Backend**: Node.js, Express.js, MongoDB
-      - 🤖 **ML Tools**: scikit-learn, Pandas, NumPy, Matplotlib, NLP
-      - 🚀 **Deployment**: Streamlit, Flask, Render, Vercel, Heroku
-    </td>
-  </tr>
-</table>
+<!-- Profile Count Badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Paresh&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Paresh" style="padding-right:20px;" />
+</p>
