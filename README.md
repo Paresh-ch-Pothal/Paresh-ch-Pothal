@@ -3,9 +3,11 @@
   <img src="https://github.com/Paresh-ch-Pothal/Paresh-ch-Pothal/blob/main/bannerImage.png" alt="Banner Image" width="100%" />
 </p>
 
+
+
 <!-- Left Side Animation -->
 <div>
-  <img align="right" width="40%" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?ga=GA1.1.1857632827.1746463498&semt=ais_hybrid&w=740" alt="Tech Concept" />
+  <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Tech Concept" />
 </div>
 
 
@@ -17,7 +19,6 @@
   Full Stack Developer & ML Enthusiast
 </h1>
 
-<!-- Start Intro -->
 <p align="left">I'm a Full Stack Developer with strong expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js) and passionate about integrating AI/ML solutions into real-world applications. I enjoy building dynamic, scalable web applications and solving problems with machine learning techniques.</p>
 
 <ul>
@@ -162,6 +163,11 @@
   <a href="https://www.geeksforgeeks.org/user/pareshchanduhie/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks" />
   </a>
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner Image" width="100%" />
 </p>
 
 
